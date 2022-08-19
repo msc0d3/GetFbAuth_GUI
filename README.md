@@ -19,3 +19,5 @@ Get fb token &amp; cookie from Ld Player + Nox using Adb
 ## Bank
 7778889992001 / MB BANK / NGUYEN DAC TAI
 ## Paypal : nguyendactaidn@gmail.com or [Link Paypal](https://www.paypal.com/paypalme/nguyendactai)
+## BTC ( BSC - BEP20 ) : 0x6afb8d70813d6b9257036275585e35a2d15db01b
+## BTC ( BTC ) : 12sNiCFoF31sfVZCuiTof1PfyDqAGt7YT7
